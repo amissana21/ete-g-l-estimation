@@ -89,7 +89,7 @@ For ETELL, each design has its own set of notebooks. For ETELN, both designs are
 
 ## Data
 
-The real data application uses **Norwegian fire insurance claims**, a standard benchmark dataset in actuarial science for modeling heavy-tailed loss distributions. See `data/README.md` for details.
+The real data application uses **Norwegian fire insurance claims**, a standard benchmark dataset in actuarial science for modeling heavy-tailed loss distributions. See `data/` for details.
 
 ## Requirements
 
