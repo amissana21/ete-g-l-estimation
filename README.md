@@ -56,7 +56,7 @@ ete-g-l-estimation/
 │   └── 04_Risk_Measures.ipynb              # VaR and TVaR calculations (both designs)
 │
 └── data/
-    └── README.md                       # Data source information
+    └── norwegianfire_raw.csv               # Data source information
 ```
 
 ## Notebook Descriptions
